@@ -1,0 +1,10 @@
+C:\Users\bless\Desktop\whu\软构\Assignment1\Program_calculator_WindowsFormsApp1\bin\Debug\Program_calculator_WindowsFormsApp1.exe.config
+C:\Users\bless\Desktop\whu\软构\Assignment1\Program_calculator_WindowsFormsApp1\bin\Debug\Program_calculator_WindowsFormsApp1.exe
+C:\Users\bless\Desktop\whu\软构\Assignment1\Program_calculator_WindowsFormsApp1\bin\Debug\Program_calculator_WindowsFormsApp1.pdb
+C:\Users\bless\Desktop\whu\软构\Assignment1\Program_calculator_WindowsFormsApp1\obj\Debug\Program_calculator_WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\bless\Desktop\whu\软构\Assignment1\Program_calculator_WindowsFormsApp1\obj\Debug\Program_calculator_WindowsFormsApp1.Form1.resources
+C:\Users\bless\Desktop\whu\软构\Assignment1\Program_calculator_WindowsFormsApp1\obj\Debug\Program_calculator_WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bless\Desktop\whu\软构\Assignment1\Program_calculator_WindowsFormsApp1\obj\Debug\Program_calculator_WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\bless\Desktop\whu\软构\Assignment1\Program_calculator_WindowsFormsApp1\obj\Debug\Program_calculator_WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\bless\Desktop\whu\软构\Assignment1\Program_calculator_WindowsFormsApp1\obj\Debug\Program_calculator_WindowsFormsApp1.exe
+C:\Users\bless\Desktop\whu\软构\Assignment1\Program_calculator_WindowsFormsApp1\obj\Debug\Program_calculator_WindowsFormsApp1.pdb
