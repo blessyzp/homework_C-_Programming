@@ -15,8 +15,6 @@ A repository for homework to C# Programming.<br/> <br/>
                    }<br/>
             eg1-1. if (num == null || nums.length == 0)<br/>
                    throw ...<br/>
-                   
-<br/>
              2.Input and output should be set aside from the main program<br/>
              3.Several building approaches for list and sets.<br/>
             eg2. List<int> factor = new LIst<int>(); // List<int>的创建<br/>
