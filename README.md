@@ -19,8 +19,11 @@ A repository for homework to C# Programming.<br/> <br/>
              3.Several building approaches for list and sets.<br/>
             eg2. List<int> factor = new LIst<int>(); // List<int>的创建<br/>
                  ISet<int> factor = new HashSet(); //不想有重复元素的数组<br/>
+                  <br/>
+             
+·assignment3: finished<br/>
 
-            
+             
 
             
             
