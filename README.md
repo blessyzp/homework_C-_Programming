@@ -22,6 +22,14 @@ A repository for homework to C# Programming.<br/> <br/>
                   <br/>
              
 ·assignment3: finished<br/>
+  attention:  <br/>
+             1.valid() function for validation: <br/>
+             2.Random() is not suitable for cycles, cause random() depends on time while time can be same when running.<br/>
+             3.A new special frame call "simple factory" that new instances can be created by "factory".<br/>
+             eg1. public class shape... <br/>
+                  public class shapefactory... <br/>
+      
+            
 
              
 
