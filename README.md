@@ -28,6 +28,11 @@ A repository for homework to C# Programming.<br/> <br/>
              3.A new special frame call "simple factory" that new instances can be created by "factory".<br/>
              eg1. public class shape... <br/>
                   public class shapefactory... <br/>
+                  
+·assignment4: finished<br/>
+
+
+                
       
             
 
