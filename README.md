@@ -33,6 +33,7 @@ A repository for homework to C# Programming.<br/> <br/>
 
 ·assignment5: finished<br/>
 
+·assignment6: finished<br/>
                 
       
             
