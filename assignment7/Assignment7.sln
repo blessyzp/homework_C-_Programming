@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderForm", "OrderForm\OrderForm.csproj", "{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{CA98A8E0-9173-4C2A-8629-C3A8512286C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{214A9915-B34F-44A3-B508-0E253E347749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F23DA60A-FA5F-4BA8-8022-DB2641DDA2EA}
+	EndGlobalSection
+EndGlobal
